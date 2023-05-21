@@ -1,5 +1,2 @@
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Hey! Support Me On Ko-fi!', '#29abe0', 'L4L76FZ0F');kofiwidget2.draw();</script>
-### ***Creative Axolotl's GitHub Stats***
-![Creative Axolotl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Creative-Axolotl&show_icons=true&theme=default)
-
-Pictures made by [Leonardo.ai](Leonardo.ai)
+# Pictures made by [Leonardo.ai](Leonardo.ai)
+https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/b73847c4-0ec7-4e0c-bc98-75ee5e3184fe/Deliberate_11_artwork_graphic_of_majestic_palm_tree_in_paintin_0.jpg   https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/b73847c4-0ec7-4e0c-bc98-75ee5e3184fe/Deliberate_11_artwork_graphic_of_majestic_palm_tree_in_paintin_1.jpg
