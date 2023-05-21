@@ -9,7 +9,7 @@
 <img src="(https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/2de9ce73-5f32-4070-b42a-61634259a130/RPG_40_detailed_illustration_japan_village_vector_design_muted_0.jpg)">
 <img src="(https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/2de9ce73-5f32-4070-b42a-61634259a130/RPG_40_detailed_illustration_japan_village_vector_design_muted_1.jpg)">
 <img src="(https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/2de9ce73-5f32-4070-b42a-61634259a130/RPG_40_detailed_illustration_japan_village_vector_design_muted_2.jpg)">
-<img src="<img src="(https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/2de9ce73-5f32-4070-b42a-61634259a130/RPG_40_detailed_illustration_japan_village_vector_design_muted_3.jpg)">
+<img src="(https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/2de9ce73-5f32-4070-b42a-61634259a130/RPG_40_detailed_illustration_japan_village_vector_design_muted_3.jpg)">
 <img src="(https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/e65e6765-0c4e-4e6e-a95c-c646b4c2b091/RPG_40_detailed_illustration_japan_village_vector_design_muted_0.jpg)">
 <img src="(https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/e65e6765-0c4e-4e6e-a95c-c646b4c2b091/RPG_40_detailed_illustration_japan_village_vector_design_muted_1.jpg)">
 <img src="(https://cdn.leonardo.ai/users/6d6d14b3-e337-4312-9110-edf6266400e5/generations/e65e6765-0c4e-4e6e-a95c-c646b4c2b091/RPG_40_detailed_illustration_japan_village_vector_design_muted_2.jpg)">
