@@ -1,4 +1,4 @@
-# Photo Gallary
+## Photo Gallary
 ### Pictures made by [Leonardo.ai](Leonardo.ai)
 ![B1](https://github.com/Creative-Axolotl/creative-axolotl.github.io/assets/130423955/13af3ed0-a976-463b-bfc6-8eda3d99e8fe)
 ![B2](https://github.com/Creative-Axolotl/creative-axolotl.github.io/assets/130423955/a12756c0-4074-49a4-b02e-7d475741a9ea)
