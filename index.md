@@ -1,4 +1,6 @@
+---------------------
 title: Photo Gallary
+---------------------
 
 ## Pictures made by [Leonardo.ai](Leonardo.ai)
 ![B1](https://github.com/Creative-Axolotl/creative-axolotl.github.io/assets/130423955/13af3ed0-a976-463b-bfc6-8eda3d99e8fe)
