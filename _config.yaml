@@ -1,5 +1,6 @@
 title: Glow Codin's Official Website
 description: Welcome to Glow Codin's Official Website!
 markdown: kramdown
-path: /jekyll-minimal-theme  
-url:  'http://henrythemes.github.io/jekyll-minimal-theme'
+sass:
+  sass_dir: css
+  style:    expanded
